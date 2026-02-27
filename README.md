@@ -31,7 +31,7 @@ High-stakes communication requires more than practice — it requires data. We p
 
 We do not believe in "good enough."
 
-Our work is defined by a deep respect for the integration of services. We don't just use APIs; we orchestrate them.
+Our work is defined by a deep respect for the integration of services. We don't just use APIs; we orchestrate them. We don't just train models; we bring them to life.
 
 **Deterministic Reliability**
 We treat AI output as untrusted code, wrapping it in validation loops to ensure the final product is always stable.
