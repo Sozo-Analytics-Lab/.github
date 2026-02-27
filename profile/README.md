@@ -35,15 +35,19 @@ We do not believe in "good enough."
 At Sozo Analytics Lab, we’ve stopped building features and started engineering systems. We’ve unified Memory, Perception, Action, and Foundation into a single, cohesive OODA loop.
 
 **The Craft of Certainty**
+
 We treat AI output as untrusted code. By wrapping it in symbolic and physics-based validation, we replace probabilistic guessing with deterministic reliability. We don't want the machine to guess; we want it to know.
 
 **The Rhythm of Agency**
+
 Intelligence without context is a novelty; agency without memory is a toy. We aren't building ephemeral sessions; we are building persistent partners that Observe, Orient, Decide, and Act.
 
 **Elegant Efficiency**
+
 Complexity is the enemy of quality. Our "8-Spark Economy" in Athena proves that constraints aren't barriers—they are catalysts for sharper, more human-centric design.
 
 **The Long Now**
+
 We build for years, not minutes. We are crafting systems that mature, learn, and endure.
 
 We don’t just write code. We bring it to life.
