@@ -34,19 +34,19 @@ We do not believe in "good enough."
 "You can’t connect the dots looking forward; you can only connect them looking backwards."
 At Sozo Analytics Lab, we’ve stopped building features and started engineering systems. We’ve unified Memory, Perception, Action, and Foundation into a single, cohesive OODA loop.
 
-'''
+```mermaid
 graph LR
-    A[<b>Sozo Athena</b><br/>Observe] --> B[<b>SozoGraph</b><br/>Orient]
-    B --> C[<b>Orchestrator</b><br/>Decide]
-    C --> D[<b>SozoFix/Lattice</b><br/>Act]
+    A["**Sozo Athena**<br/>Observe"] --> B["**SozoGraph**<br/>Orient"]
+    B --> C["**Orchestrator**<br/>Decide"]
+    C --> D["**SozoFix/Lattice**<br/>Act"]
     D -.->|Verify| A
 
     style A fill:#18181b,stroke:#a1a1aa,color:#fafafa
     style B fill:#18181b,stroke:#a1a1aa,color:#fafafa
     style C fill:#18181b,stroke:#a1a1aa,color:#fafafa
     style D fill:#18181b,stroke:#a1a1aa,color:#fafafa
-    linkStyle default stroke:#a1a1aa,stroke-width:2px;
-'''
+    linkStyle default stroke:#a1a1aa,stroke-width:2px
+```
 
 **The Craft of Certainty**
 
