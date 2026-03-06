@@ -25,8 +25,7 @@ We design integrated systems that allow machines to **observe, orient, decide, a
 
 ## [SozoGraph](https://github.com/Sozo-Analytics-Lab/sozograph) — The Memory
 
-Most AI systems have the memory of a goldfish.  
-They retrieve text but do not maintain belief.
+Most AI systems have the memory of a goldfish. They retrieve text but do not maintain belief.
 
 **SozoGraph** is our memory architecture: a *Cognitive Passport* that converts interaction history into structured state. Instead of fragmented conversations, agents maintain coherent models of users, environments, and tasks.
 
@@ -46,8 +45,7 @@ Perception becomes comprehension.
 
 ## [SozoFix](https://sozofix.tech) — The Physical Interface
 
-The circular economy is not a slogan.  
-It is an engineering challenge.
+Repair is one of humanity's oldest technologies.
 
 **SozoFix** bridges the gap between a broken object and a functional one. By combining visual diagnosis with guided repair workflows, it makes repair as intuitive as replacement.
 
