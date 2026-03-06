@@ -1,44 +1,93 @@
 # Sozo Analytics Lab
 
-> We are at a transition point in computing. We are moving from tools that calculate to partners that understand.
+> We are at a transition point in computing.  
+> We are moving from tools that calculate to partners that understand.
 
-At Sozo Analytics Lab, we are building the infrastructure for this transition. We believe that intelligence without context is a novelty, and agency without memory is a toy. We build systems that are coherent, persistent, and grounded in physical reality.
+At **Sozo Analytics Lab**, we are building the infrastructure for that transition.
 
----
+We believe intelligence without context is a novelty, and agency without memory is a toy. The systems we build are designed to be coherent, persistent, and grounded in the physical world.
 
-## The Perception Stack
+Human progress has always depended on quiet competence. Civilizations endure because people observe carefully, reason deeply, and repair what breaks. Knowledge passes hand to hand, systems evolve, and tools become extensions of human capability.
 
-We view the intelligence we build not as a collection of features, but as an integrated system.
+Our work aims to amplify that instinct.
 
-### [SozoGraph](https://github.com/Sozo-Analytics-Lab/sozograph) — The Soul
-Most agents have the memory of a goldfish. They retrieve text; they do not maintain belief. SozoGraph is our memory architecture — a *Cognitive Passport* that distills history into structured state. It ensures that an agent's understanding of you is consistent, private, and portable.
-
-### [Sozo Athena](https://sozo-athena-186891137448.us-west1.run.app) — The Brain
-A system designed to deconstruct the world. Athena doesn't just identify objects; she synthesizes them. From a visual capture, she generates the scientific context, the engineering blueprint, and the interactive simulation required to truly understand how a thing works.
-
-### [SozoFix](https://sozofix.tech) — The Physical Hand
-The circular economy is not a marketing concept; it is an engineering challenge. SozoFix bridges the gap between a broken item and a functional one. We combine spatial vision with step-by-step guidance to ensure that "repair" is as intuitive as "replace."
-
-### [Sozo Lattice](https://github.com/Sozo-Analytics-Lab/Sozo-Lattice) — The Material Foundation
-We are applying the same rigour we use for software to the physical world. By modeling material failure at the atomic level, we enable sustainable design that is as durable as it is responsible.
-
-### [Sozo Pitch Helper](https://pitchhelper.netlify.app) — The Behavioral Mirror
-High-stakes communication requires more than practice — it requires data. We provide the feedback loop for human performance, measuring clarity, understanding, and composure to help individuals master the art of the pitch.
+We unify **perception, memory, reasoning, and action** into systems that do not merely respond to prompts but develop durable understanding.
 
 ---
 
-## Engineering Philosophy
+# The Perception Stack
 
-We do not believe in "good enough."
+We do not think of intelligence as isolated features.
+
+We design integrated systems that allow machines to **observe, orient, decide, and act** in the real world.
+
+---
+
+## [SozoGraph](https://github.com/Sozo-Analytics-Lab/sozograph) — The Memory
+
+Most AI systems have the memory of a goldfish.  
+They retrieve text but do not maintain belief.
+
+**SozoGraph** is our memory architecture: a *Cognitive Passport* that converts interaction history into structured state. Instead of fragmented conversations, agents maintain coherent models of users, environments, and tasks.
+
+Memory becomes persistent, private, and portable.
+
+---
+
+## [Sozo Athena](https://sozo-athena-186891137448.us-west1.run.app) — The Perception Engine
+
+Understanding the physical world requires more than object detection.
+
+**Sozo Athena** analyzes visual input and synthesizes layered understanding: scientific context, engineering structure, and operational behavior. From a single capture, Athena generates the conceptual and mechanical model required to understand how an object works.
+
+Perception becomes comprehension.
+
+---
+
+## [SozoFix](https://sozofix.tech) — The Physical Interface
+
+The circular economy is not a slogan.  
+It is an engineering challenge.
+
+**SozoFix** bridges the gap between a broken object and a functional one. By combining visual diagnosis with guided repair workflows, it makes repair as intuitive as replacement.
+
+Every repair becomes both an outcome and a data point, gradually building the shared intelligence required to make repair scalable.
+
+---
+
+## [Sozo Lattice](https://github.com/Sozo-Analytics-Lab/Sozo-Lattice) — The Material Layer
+
+Durability begins at the material level.
+
+**Sozo Lattice** applies computational modeling to material behavior, allowing designers and engineers to understand how structures degrade and how they can be made more resilient.
+
+Where SozoFix focuses on repair, Lattice focuses on prevention.
+
+---
+
+## [Sozo Pitch Helper](https://pitchhelper.netlify.app) — The Behavioral Mirror
+
+Human performance is also a system.
+
+**Sozo Pitch Helper** measures communication clarity, composure, and audience comprehension during high-stakes presentations. By transforming subjective feedback into structured insight, it allows individuals to refine their thinking and delivery through data.
+
+---
+
+# Engineering Philosophy
+
+We are not interested in building clever demos.
+
+We build systems that endure.
 
 "You can’t connect the dots looking forward; you can only connect them looking backwards."
-At Sozo Analytics Lab, we’ve stopped building features and started engineering systems. We’ve unified Memory, Perception, Action, and Foundation into a single, cohesive OODA loop.
+
+Instead of isolated features, we engineer systems that function together. Memory, perception, and action operate as a continuous loop of understanding and improvement.
 
 ```mermaid
 graph LR
     A["**Sozo Athena**<br/>Observe"] --> B["**SozoGraph**<br/>Orient"]
     B --> C["**Orchestrator**<br/>Decide"]
-    C --> D["**SozoFix/Lattice**<br/>Act"]
+    C --> D["**SozoFix / Lattice**<br/>Act"]
     D -.->|Verify| A
 
     style A fill:#18181b,stroke:#a1a1aa,color:#fafafa
@@ -48,30 +97,48 @@ graph LR
     linkStyle default stroke:#a1a1aa,stroke-width:2px
 ```
 
-**The Craft of Certainty**
+---
 
-We treat AI output as untrusted code. By wrapping it in symbolic and physics-based validation, we replace probabilistic guessing with deterministic reliability. We don't want the machine to guess; we want it to know.
+## The Craft of Certainty
 
-**The Rhythm of Agency**
+We treat AI output as untrusted code.
 
-Intelligence without context is a novelty; agency without memory is a toy. We aren't building ephemeral sessions; we are building persistent partners that Observe, Orient, Decide, and Act.
-
-**Elegant Efficiency**
-
-Complexity is the enemy of quality. Our "8-Spark Economy" in Athena proves that constraints aren't barriers—they are catalysts for sharper, more human-centric design.
-
-**The Long Now**
-
-We build for years, not minutes. We are crafting systems that mature, learn, and endure.
-
-We don’t just write code. We bring it to life.
+By combining probabilistic models with symbolic reasoning and physics-based validation, we replace guesswork with verification. Our goal is not for machines to speculate, but to know.
 
 ---
 
-## The Work
+## The Rhythm of Agency
 
-We are a lab of engineers and designers focused on the intersection of artificial intelligence and physical utility. We are not just building tools; we are engineering the future of human capability.
+True intelligence is cyclical.
 
-To see our progress, explore our repositories and applications or inquire about our current research.
+Systems must **observe, orient, decide, and act**, continuously refining their understanding through interaction with the world.
+
+---
+
+## Elegant Efficiency
+
+Constraints sharpen design.
+
+Our architecture prioritizes clarity and minimalism, ensuring that systems remain understandable, maintainable, and reliable as they evolve.
+
+---
+
+## The Long Now
+
+We build systems designed to mature over years.
+
+Civilization advances through accumulated knowledge, shared practice, and durable tools. Our aim is to create software that participates in that same long arc of progress.
+
+---
+
+# The Work
+
+Sozo Analytics Lab operates at the intersection of **artificial intelligence and physical utility**.
+
+We are not simply building applications.
+
+We are engineering systems that extend human capability and preserve the knowledge required to sustain the world we inhabit.
+
+Explore our repositories and experiments to see what we are building.
 
 📩 [rairo@sozofix.tech](mailto:rairo@sozofix.tech)
