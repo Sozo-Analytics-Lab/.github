@@ -63,11 +63,11 @@ Where SozoFix focuses on repair, Lattice focuses on prevention.
 
 ---
 
-## [Sozo Pitch Helper](https://pitchhelper.netlify.app) — The Behavioral Mirror
+## [Sozo Pitchfy](https://pitchhelper.netlify.app) — The Behavioral Mirror
 
 Human performance is also a system.
 
-**Sozo Pitch Helper** measures communication clarity, composure, and audience comprehension during high-stakes presentations. By transforming subjective feedback into structured insight, it allows individuals to refine their thinking and delivery through data.
+**Sozo Pitchfy** measures communication clarity, composure, and audience comprehension during high-stakes presentations. By transforming subjective feedback into structured insight, it allows individuals to refine their thinking and delivery through data.
 
 ---
 
